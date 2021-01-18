@@ -2,7 +2,7 @@
 
  (by MEDINA, M. R. B)
 
-Version 1.0.1
+Version 1.0.2
 
 ## Nota 02 - Usando Digispark ATtiny85 no Debian
 
@@ -103,9 +103,9 @@ PRONTO!!! :ok_hand:
 
 ​	Agora é só criar seus programas e carregar na placa:
 
-​	Na pasta deste repositóriio se encontra um código para teste:
+​	Na pasta repositório do GitHub se encontra um código para teste:
 
-[Código Pisca LED](arduino/blob/main/pisca_led/pisca_led.ino)
+[Código Pisca LED](https://github.com/marciomedina3d/arduino/blob/main/pisca_led/pisca_led.ino)
 
 LEMBRE-SE!!! :spiral_notepad:
 
@@ -120,7 +120,7 @@ Boa Sorte! :four_leaf_clover:
 
 ### Referências :book:
 
-[Connecting and Programming Your Digispark (by pfeerick)](https://github.com/marciomedina3d/arduino/blob/main/pisca_led/pisca_led.ino )
+[Connecting and Programming Your Digispark (by pfeerick)](https://digistump.com/wiki/digispark/tutorials/connecting )
 
 [Primeiros Passos com o Digispark ATtiny85](https://www.robocore.net/tutoriais/primeiros-passos-digispark-attiny85)
 
