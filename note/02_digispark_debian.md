@@ -2,7 +2,7 @@
 
  (by MEDINA, M. R. B)
 
-Version 1.0.0
+Version 1.0.1
 
 ## Nota 02 - Usando Digispark ATtiny85 no Debian
 
@@ -101,15 +101,15 @@ udevadm control --reload-rules
 
 PRONTO!!! :ok_hand:
 
-Abora é só criar seus programas e carregar na placa:
+​	Agora é só criar seus programas e carregar na placa:
 
-Na pasta deste repositóriio se encontra um código para teste:
+​	Na pasta deste repositóriio se encontra um código para teste:
 
-[Nota 02 - Usando Digispark ATtiny85 no Debian](arduino/pisca_ino/pisca_led.ino)
+[Código Pisca LED](arduino/blob/main/pisca_led/pisca_led.ino)
 
 LEMBRE-SE!!! :spiral_notepad:
 
-O carregamento do código na `Digispark ATtiny85` é diferente dos processos comuns como na `Arduino Uno` . É necessário que a placa esteja desconectada do computador e só deve ser conectada após a `Arduino IDE` solicitar com a mensagem a seguir, depois que o código foi compilado após clicar no botão carregar.
+​	O carregamento do código na `Digispark ATtiny85` é diferente dos processos comuns como na `Arduino Uno` . É necessário que a placa esteja desconectada do computador e só deve ser conectada após a `Arduino IDE` solicitar com a mensagem a seguir, depois que o código foi compilado após clicar no botão carregar.
 
 ```
 Running Digispark Uploader...
@@ -120,7 +120,8 @@ Boa Sorte! :four_leaf_clover:
 
 ### Referências :book:
 
-[Connecting and Programming Your Digispark (by pfeerick)]: http://digistump.com/wiki/digispark/tutorials/connecting
+[Connecting and Programming Your Digispark (by pfeerick)](https://github.com/marciomedina3d/arduino/blob/main/pisca_led/pisca_led.ino )
 
-[Primeiros Passos com o Digispark ATtiny85]: https://www.robocore.net/tutoriais/primeiros-passos-digispark-attiny85
-[Instalando Bibliotecas Digistump Attiny85 - Debian 9 - Part.1 (by  Thiago Ferreira da cruz)]: https://www.youtube.com/watch?v=WIGLa4vXrRs
+[Primeiros Passos com o Digispark ATtiny85](https://www.robocore.net/tutoriais/primeiros-passos-digispark-attiny85)
+
+[Instalando Bibliotecas Digistump Attiny85 - Debian 9 - Part.1 (by  Thiago Ferreira da cruz)](https://www.youtube.com/watch?v=WIGLa4vXrRs )

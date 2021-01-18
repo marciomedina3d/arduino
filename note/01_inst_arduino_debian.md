@@ -2,7 +2,7 @@
 
  (by MEDINA, M. R. B)
 
-Version 1.0.0
+Version 1.0.1
 
 ## Nota 01 - Instalando o arduino no Debian
 
@@ -78,9 +78,9 @@ sudo chmod +x install.sh
 
 Boa Sorte! :four_leaf_clover:
 
-
-
 ### Referências :book:
 
-[Arduino #4: Instalando a IDE no Linux (by Leonardo Haddad Carlos)]: https://hardwarelivreusp.org/tutoriais/2016/11/20/arduino-4linux/
-[Como Instalar o Arduino IDE no Ubuntu (by Izabelle Lima)]: https://autocorerobotica.blog.br/como-instalar-a-arduino-ide-no-ubuntu/
+[Arduino #4: Instalando a IDE no Linux (by Leonardo Haddad Carlos)](https://hardwarelivreusp.org/tutoriais/2016/11/20/arduino-4linux/)
+
+[Como Instalar o Arduino IDE no Ubuntu (by Izabelle Lima)](https://autocorerobotica.blog.br/como-instalar-a-arduino-ide-no-ubuntu/)
+
